@@ -7,7 +7,7 @@
 |[Allocate](https://www.abbreviations.com/abbreviation/allocate)|[Alloc](https://www.abbreviations.com/ALLOC)|[AllocConsole](https://learn.microsoft.com/en-us/windows/console/allocconsole) or [malloc](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/malloc?view=msvc-170)|
 |[Argument](https://www.abbreviations.com/abbreviation/argument)|[Arg](https://www.abbreviations.com/serp.php?st=ARG&p=2)||
 |[Attribute](https://www.abbreviations.com/abbreviation/Attribute)|[Attr](https://www.abbreviations.com/ATTR)||
-|[Character](https://www.abbreviations.com/abbreviation/character)|[Char/char](https://www.abbreviations.com/CHAR)|[char](https://en.wikipedia.org/wiki/C_data_types) or [getchar](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/getchar-getwchar?view=msvc-170)|
+|[Character](https://www.abbreviations.com/abbreviation/character)|[Char](https://www.abbreviations.com/CHAR)|[char](https://en.wikipedia.org/wiki/C_data_types) or [getchar](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/getchar-getwchar?view=msvc-170)|
 |[Command](https://www.abbreviations.com/abbreviation/Command)|[Cmd](https://www.abbreviations.com/CMD)|[pCmdLine or nCmdShow](https://learn.microsoft.com/en-us/windows/win32/learnwin32/winmain--the-application-entry-point)|
 |[Destination](https://www.abbreviations.com/abbreviation/destination)|[Dst](https://www.abbreviations.com/serp.php?st=DST&p=2)||
 |[Infinity](https://www.abbreviations.com/abbreviation/Infinity)|[Inf](https://www.abbreviations.com/INF)|[∞](https://en.wikipedia.org/wiki/Infinity_symbol) or [isinf](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/isinf?view=msvc-170)|
@@ -16,7 +16,8 @@
 |[Library](https://www.abbreviations.com/abbreviation/Library)|[Lib](https://www.abbreviations.com/LIB)|[.lib](https://en.wikipedia.org/wiki/Library_(computing)#Windows)|
 |[Memory](https://www.abbreviations.com/abbreviation/memory)|[Mem](https://www.abbreviations.com/MEM)|[memcpy](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/memcpy-wmemcpy?view=msvc-170)|
 |[Parameter](https://www.abbreviations.com/abbreviation/parameter)|[Param](https://www.abbreviations.com/PARAM)|[WPARAM or LPARAM](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nc-winuser-wndproc)|
-|[Previous](https://www.abbreviations.com/abbreviation/previous)|[Prev](https://www.abbreviations.com/PREV)||
+|[Pointer](https://www.abbreviations.com/abbreviation/pointer)|[Ptr/ptr](https://www.abbreviations.com/PTR)|[nullptr](https://learn.microsoft.com/en-us/cpp/extensions/nullptr-cpp-component-extensions?view=msvc-170)|
+|[Previous](https://www.abbreviations.com/abbreviation/previous)|[Prev](https://www.abbreviations.com/PREV)|[hPrevInstance in WinMain](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-winmain)|
 |[Reference](https://www.abbreviations.com/abbreviation/reference)|[Ref](https://www.abbreviations.com/REF)|[ref](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)|
 |[Repository](https://www.abbreviations.com/abbreviation/repository)|[Repo](https://www.abbreviations.com/REPO)|[repo](https://en.wikipedia.org/wiki/Software_repository)|
 |[Resource](https://www.abbreviations.com/abbreviation/resource)|[Rsrc](https://www.abbreviations.com/RSRC)|[HRSRC](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-findresourcea)|
