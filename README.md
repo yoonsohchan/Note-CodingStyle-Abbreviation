@@ -8,7 +8,7 @@
 |[Argument](https://www.abbreviations.com/abbreviation/argument)|[Arg](https://www.abbreviations.com/serp.php?st=ARG&p=2)||
 |[Attribute](https://www.abbreviations.com/abbreviation/Attribute)|[Attr](https://www.abbreviations.com/ATTR)||
 |[Character](https://www.abbreviations.com/abbreviation/character)|[Char](https://www.abbreviations.com/CHAR)|[char](https://en.wikipedia.org/wiki/C_data_types) or [getchar](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/getchar-getwchar?view=msvc-170)|
-|[Command](https://www.abbreviations.com/abbreviation/Command)|[Cmd](https://www.abbreviations.com/CMD)|[pCmdLine or nCmdShow](https://learn.microsoft.com/en-us/windows/win32/learnwin32/winmain--the-application-entry-point)|
+|[Command](https://www.abbreviations.com/abbreviation/Command)|[Cmd](https://www.abbreviations.com/CMD)|[pCmdLine or nCmdShow in wWinMain](https://learn.microsoft.com/en-us/windows/win32/learnwin32/winmain--the-application-entry-point)|
 |[Destination](https://www.abbreviations.com/abbreviation/destination)|[Dst](https://www.abbreviations.com/serp.php?st=DST&p=2)||
 |[Infinity](https://www.abbreviations.com/abbreviation/Infinity)|[Inf](https://www.abbreviations.com/INF)|[∞](https://en.wikipedia.org/wiki/Infinity_symbol) or [isinf](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/isinf?view=msvc-170)|
 |[Information](https://www.abbreviations.com/abbreviation/information)|[Info](https://www.abbreviations.com/INFO)|[GetClassInfoExA](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getclassinfoexa)|
